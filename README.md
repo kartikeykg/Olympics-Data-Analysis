@@ -9,8 +9,6 @@ An exploratory data analysis and machine-learning project built around historica
 | `Olympics_Data.ipynb` | Main notebook: data preparation, exploratory analysis, visualizations, and medal classification. |
 | `Olympics data.csv` | Dataset used by the notebook. |
 | `assets/` | PNG exports of the notebook visualizations embedded in this README. |
-| `requirements.txt` | Python libraries required to run the analysis. |
-| `Olympics Data Analysis _ ML _ FA _ DA projects.pdf` | Related project brief/reference document. |
 
 ## Dataset
 
